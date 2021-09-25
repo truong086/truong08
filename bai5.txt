@@ -1,0 +1,19 @@
+Các câu lệnh git đã học
+
+git init :Khởi tạo một dự án git mới hoặc đã có
+
+git clone + link git nguồn  :copy một git repository từ remote
+
+git pull  :tải những thay đổi của dự án mới về máy
+
+git add .  :Khởi tạo và tải lên một dự án
+
+git status  :Kiểm tra xem trạng thái thay đổi của dự án tải lên
+
+git branch  :Tạo một nhánh làm việc mới từ project
+
+get commit  :Kết hợp với git add . để cho đánh dấu dự án mới bạn muốn lưu vào repo
+
+get remote + link dẫn    :Tạo một bản sao từ nhánh từ giao tiếp với các remote khác
+
+git push origin master  :Để lấy những thay đổi cục bộ lên nhánh làm việc chính 
